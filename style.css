@@ -1,0 +1,21 @@
+* {
+  font-family: monospace;
+  font-size: 30px;
+}
+
+.navbar {
+  padding: 20px;
+  background-color: blanchedalmond;
+  border-radius: 20px;
+  width: 10vh;
+}
+
+.gusername {
+  border-radius: 50px;
+}
+
+.btn {
+  margin: 25px;
+  padding: 2px;
+  border-radius: 5px;
+}
